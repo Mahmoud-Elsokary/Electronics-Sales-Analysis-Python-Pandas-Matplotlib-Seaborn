@@ -1,4 +1,4 @@
-# Electronics Sales Analysis (2019)
+# Electronics Sales Analysis
 
 ## Business problem
 
